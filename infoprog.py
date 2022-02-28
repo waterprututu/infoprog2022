@@ -5,7 +5,7 @@ szelessegi = []
 zsakok_szama = []
 fordulatok = 0
 tavolsag = 0
-
+#asd
 # A harmadik feladat megoldó algoritmusa 
 
 # koordinatak - raktár koordinátái
