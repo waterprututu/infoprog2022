@@ -5,6 +5,10 @@ szelessegi = []
 zsakok_szama = []
 fordulatok = 0
 tavolsag = 0
+<<<<<<< HEAD
+=======
+#sdf
+>>>>>>> Initial commit
 
 # A harmadik feladat megoldó algoritmusa 
 
